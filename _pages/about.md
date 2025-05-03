@@ -17,42 +17,64 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San Diego](https://ucsd.edu/), advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). Before coming to UC San Diego, I received my B.E. in Artificial Intelligence from Beijing University of Chemical Technology in 2024. My research interests include soft robot design, reinforcement learning and machine learning. 
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Homepage has been setup! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+  <!-- <div class="badge">CVPR 2016</div> -->
+<img src='images/sensor.png' alt="sym" width="100%">
+  </div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Consistent Round-Up Strategy Based on PPO Path Optimization for the Leader–Follower Tracking Problem](https://www.mdpi.com/1424-8220/23/21/8814)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Sensors, 2023
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Xiao Wang, Zhaohui Yang, **Xueqian Bai**, Mingjiang Ji, Hao Li and Dechao Ran
+
 </div>
 </div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+  <!-- <div class="badge">CVPR 2016</div> -->
+<img src='images/maddpg.png' alt="sym" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[An Improved MADDPG Algorithm Based on Apollonius Circle Guidance and Opponent Modeling for Multi-UAV Pursuit-Evasion Game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4853581)
+
+Preprint.
+
+Xiao Wang, **Xueqian Bai**, Zhaohui Yang, Zhe Ma, Kewu Sun, Jiake Li
+
+</div>
+</div>
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022-2023*, School-level Outstanding Student for two consecutive years
+- *2021-2023*, National Scholarship for three consecutive years
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, Master Student in Computer Science, University of California, San Diego.
+- *2020.09 - 2024.06*, Undergraduate Student in Artificial Intelligence, Beijing University of Chemical Technology.
+
+**Current GPA**: 4.00/4.00
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.05*, Invited by the Information Science and Technology Department of Beijing University of Chemical Technology, Application of Offline Reinforcement Learning Algorithms. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - 2023.08*, Research Intern, [Applied Optimization and Learning](https://iopscience.iop.org/article/10.1088/1742-6596/2711/1/012016/meta). Advisor: [Prof. Peter Zhang, Carnegie Mellon University.](https://www.andrew.cmu.edu/user/yunz2/index.html)
+- *2023.09 - 2024.04*, Research Intern, [Distributed Reinforcement Learning Framework](https://github.com/Hakuna25/RL-branch), WiseWorker, Beijing, China.
