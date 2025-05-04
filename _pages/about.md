@@ -78,3 +78,8 @@ Xiao Wang, **Xueqian Bai**, Zhaohui Yang, Zhe Ma, Kewu Sun, Jiake Li
 # 💻 Internships
 - *2023.06 - 2023.08*, Research Intern, [Applied Optimization and Learning](https://iopscience.iop.org/article/10.1088/1742-6596/2711/1/012016/meta). Advisor: [Prof. Peter Zhang, Carnegie Mellon University.](https://www.andrew.cmu.edu/user/yunz2/index.html)
 - *2023.09 - 2024.04*, Research Intern, [Distributed Reinforcement Learning Framework](https://github.com/Hakuna25/RL-branch), WiseWorker, Beijing, China.
+
+<div style="text-align: right; font-size: 14px; margin-right:10px; margin-top:65px">
+  <span style="font-style: italic;"> Template from <a style=" text-decoration: underline;" href="https://rayeren.github.io/">this guy</a>  
+  </span>
+</div>
