@@ -26,16 +26,48 @@ redirect_from:
 
 # Glimpse Through my Lens
 <div style="display: flex; align-items: center;  " >
-  <img src="/images/sheep.jpg" width="50%" style="margin-right: 10px; border-radius: 8px;">
-   <div style="font-size: 16px; padding-left:10px">
-   <p>✔ Filmed in Altay</p>
-   <p>✔ Got stuck in a massive herd of sheep and cattle crossing the road</p>
+   <div style="position: relative; width: 50%; margin-right: 10px;">
+    <img src="/images/sheep.jpg" style="width: 100%; border-radius: 8px; display: block;">
+    <div style="
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      color: white;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 4px 8px;
+      font-size: 14px;
+      border-radius: 4px;
+    ">
+      Filmed in Altay (Jun 2024)
+    </div>
+  </div>
+  <div style="font-size: 16px; padding-right:10px">
+    <p>✔ Got stuck in a massive herd of sheep and cattle crossing the road</p>
+    <p>✔ A boundless sea of verdant grass</p>
   </div>
 </div>
-<div style="display: flex; align-items: center; margin-left:0px ;margin-top: 30px" >
-  
-   <div style="font-size: 16px; padding-right:10px">
-    <p>This is a description about the image. You can write anything here to accompany the photo.</p>
+
+
+<div style="display: flex; align-items: center;  " >
+  <div style="font-size: 16px; padding-right:10px">
+    <p>✔ Monument Valley through the window of a gift shop</p>
+    <p>✔ Highway 163, the endless road from Forrest Gump</p>
+    <p>✔ A ruby-hued light pillar rising beneath the sunset </p>
   </div>
-  <img src="/images/tree.jpeg" width="50%" style="margin-left: 10px; border-radius: 8px;">
+   <div style="position: relative; width: 50%; margin-right: 10px;">
+    <img src="/images/monument.png" style="width: 100%; border-radius: 8px; display: block;">
+    <div style="
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      color: white;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 4px 8px;
+      font-size: 14px;
+      border-radius: 4px;
+    ">
+      Filmed in Page (Mar 2025)
+    </div>
+  </div>
+  
 </div>

@@ -21,7 +21,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥:computer: News
+# 🔥 News
 - *2025.05*: &nbsp;🎊🎊 Homepage has been setup! 
 
 # 📝 Research
@@ -37,7 +37,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 
 [Co-Design of Soft Gripper with Neural Physics]()
 
-May 1st 2025, In submission to *CoRL 2025*
+May 2025, In submission to *CoRL 2025*
 
 Sha Yi, **Xueqian Bai**, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
 
@@ -57,7 +57,7 @@ Sha Yi, **Xueqian Bai**, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiao
 
 [A Consistent Round-Up Strategy Based on PPO Path Optimization for the Leader–Follower Tracking Problem](https://www.mdpi.com/1424-8220/23/21/8814)
 
-Oct 30th 2023, Sensors
+Oct 2023, Sensors
 
 Xiao Wang, Zhaohui Yang, **Xueqian Bai**, Mingjiang Ji, Hao Li and Dechao Ran
 
@@ -76,7 +76,7 @@ Xiao Wang, Zhaohui Yang, **Xueqian Bai**, Mingjiang Ji, Hao Li and Dechao Ran
 
 [An Improved MADDPG Algorithm Based on Apollonius Circle Guidance and Opponent Modeling for Multi-UAV Pursuit-Evasion Game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4853581)
 
-Jun 4th 2024, Preprint.
+Jun 2024, Preprint.
 
 Xiao Wang, **Xueqian Bai**, Zhaohui Yang, Zhe Ma, Kewu Sun, Jiake Li
 
