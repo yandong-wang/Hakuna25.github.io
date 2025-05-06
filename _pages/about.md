@@ -21,10 +21,30 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Homepage has been setup! 
+# 🔥:computer: News
+- *2025.05*: &nbsp;🎊🎊 Homepage has been setup! 
 
-# 📝 Publications 
+# 📝 Research
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+  <!-- <div class="badge">CVPR 2016</div> -->
+<img src='images/softgripper.png' alt="sym" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Co-Design of Soft Gripper with Neural Physics]()
+
+May 1st 2025, In submission to *CoRL 2025*
+
+Sha Yi, **Xueqian Bai**, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
+
+<span style="color:rgba(0, 0, 0, 0.4)">A co-design framework that generates an optimized soft gripper’s block-wise stiffness distribution and its grasping pose, using a neural physics model trained in simulation.</span>
+ 
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -37,9 +57,11 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 
 [A Consistent Round-Up Strategy Based on PPO Path Optimization for the Leader–Follower Tracking Problem](https://www.mdpi.com/1424-8220/23/21/8814)
 
-Sensors, 2023
+Oct 30th 2023, Sensors
 
 Xiao Wang, Zhaohui Yang, **Xueqian Bai**, Mingjiang Ji, Hao Li and Dechao Ran
+
+<span style="color:rgba(0, 0, 0, 0.4)">A consistent round-up strategy based on PPO path optimization to track targets.</span>
 
 </div>
 </div>
@@ -54,17 +76,22 @@ Xiao Wang, Zhaohui Yang, **Xueqian Bai**, Mingjiang Ji, Hao Li and Dechao Ran
 
 [An Improved MADDPG Algorithm Based on Apollonius Circle Guidance and Opponent Modeling for Multi-UAV Pursuit-Evasion Game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4853581)
 
-Preprint.
+Jun 4th 2024, Preprint.
 
 Xiao Wang, **Xueqian Bai**, Zhaohui Yang, Zhe Ma, Kewu Sun, Jiake Li
+
+<span style="color:rgba(0, 0, 0, 0.4)">A new algorithm composed of the integration of expert knowledge and real-time sampled data, and the prediction of evader action.</span>
 
 </div>
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2022-2023*, School-level Outstanding Student for two consecutive years
-- *2021-2023*, National Scholarship for three consecutive years
+# 🏆 Honors and Awards
+
+- *2023.10*, National Scholarship (top 1%) 
+- *2022.10*, National Scholarship (top 1%)
+- *2021.10*, National Scholarship (top 1%) 
+- *2020.10*, School-level Outstanding Student Scholarship (top 1%)
 
 # 📖 Educations
 - *2024.09 - now*, Master Student in Computer Science, University of California, San Diego.
@@ -77,6 +104,7 @@ Xiao Wang, **Xueqian Bai**, Zhaohui Yang, Zhe Ma, Kewu Sun, Jiake Li
 
 # 💻 Internships
 - *2023.06 - 2023.08*, Research Intern, [Applied Optimization and Learning](https://iopscience.iop.org/article/10.1088/1742-6596/2711/1/012016/meta). Advisor: [Prof. Peter Zhang, Carnegie Mellon University.](https://www.andrew.cmu.edu/user/yunz2/index.html)
+- *2022.06 - 2024.05*, Research Intern, Multi-agent Reinforcement Learning in Pursuit-Evasion Game. Advisor: Prof. Xiao Wang, Beijing University of Chemical Technology.
 - *2023.09 - 2024.04*, Research Intern, [Distributed Reinforcement Learning Framework](https://github.com/Hakuna25/RL-branch), WiseWorker, Beijing, China.
 
 <div style="text-align: right; font-size: 14px; margin-right:10px; margin-top:65px">
