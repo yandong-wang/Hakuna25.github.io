@@ -27,7 +27,7 @@ redirect_from:
 # Glimpse Through my Lens
 <div style="display: flex; align-items: center;  " >
    <div style="position: relative; width: 50%; margin-right: 10px;">
-    <img src="/images/sheep.jpg" style="width: 100%; border-radius: 8px; display: block;">
+    <img src="/images/sheep.JPG" style="width: 100%; border-radius: 8px; display: block;">
     <div style="
       position: absolute;
       bottom: 10px;
