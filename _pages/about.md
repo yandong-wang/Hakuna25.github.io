@@ -36,7 +36,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Co-Design of Soft Gripper with Neural Physics]()
+[Co-Design of Soft Gripper with Neural Physics](https://yswhynot.github.io/codesign-soft/)
 
 May 2025, In submission to *CoRL 2025*
 
