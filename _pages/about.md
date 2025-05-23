@@ -25,6 +25,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 - *2025.05*: &nbsp;🎊🎊 Homepage has been setup! 
 
 # 📝 Research
+<sup>*</sup> denotes equal contribution
 
 <div class='paper-box'>
 <div class='paper-box-image'>
