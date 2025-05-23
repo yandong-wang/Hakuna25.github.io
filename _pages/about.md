@@ -39,7 +39,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 
 May 2025, In submission to *CoRL 2025*
 
-Sha Yi, **Xueqian Bai**, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
+Sha Yi<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
 
 <span style="color:rgba(0, 0, 0, 0.4)">A co-design framework that generates an optimized soft gripper’s block-wise stiffness distribution and its grasping pose, using a neural physics model trained in simulation.</span>
  
