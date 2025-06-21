@@ -79,5 +79,3 @@ Xin Yu, Haoyuan Li, **Yandong Wang**, Simin Li, Rongye Shi, Wenjun Wu
 - *2025.09 - now*, Phd Student in School of Artificial Intelligence, Beihang University.
 - *2024.09 - 2025.09*, Master Student in School of Artificial Intelligence, Beihang University.
 - *2020.09 - 2024.06*, Undergraduate Student in Computer Science, China University of Geoscience Beijing.
-
-**Current GPA**: 3.88/4.00
