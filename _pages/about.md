@@ -18,11 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a 2024 master's student at the School of Artificial Intelligence of Beihang University. I will start my master's and doctoral studies in artificial intelligence in September 2025. My supervisor is Professor Wu Wenjun. <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Wenjun Wu</a>.
+
 My research focuses on controlling multi-robot systems via multi-agent reinforcement learning (MARL). To address the challenges of reinforcement learning (RL) in real-world training, I combine domain expertise with RL to improve sample efficiency and convergence. This strategy not only alleviates the limitations of RL in real-world training, but also extends the applicability of MARL in multi-robot manipulation. In addition, I am also interested in embodied artificial intelligence based on large language models (LLMs) and multi-robot task planning.
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎊🎊 Homepage has been setup! 
+- *2025.06*: &nbsp;🎊🎊 One co-authored paper on multi-robot goal assignment accepted by IROS2025! 
+- *2025.03*: &nbsp;🎊🎊 One co-authored paper on reinforcement learning accepted by IEEE TMC! 
 
 # 📝 Research
 <div class='paper-box'>
