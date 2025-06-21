@@ -6,29 +6,29 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xueqian Bai's Homepage"
+title                    : "Yandong Wang's Homepage"
 description              : " "
-repository               : "Hakuna25/Hakuna25.github.io"
+repository               : "yandong-wang/Hakuna25.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  ULx0i3BEfb2ihbgJ89O8KHzNFukU5qQmYCHK-k-ii9g # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  googlecc8eb3d428fde4db.html # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Xueqian Bai"
-  avatar           : "images/selfie.jpg"
-  bio              : "University of California, San Diego"
-  location         : "La Jolla, CA"
+  name             : "Yandong Wang"
+  avatar           : "images/wyd_profile.jpg"
+  bio              : "Beihang University"
+  location         : "Haidian District, Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=d7-gfhcAAAAJ"
-  email            : "x5bai@ucsd.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=ZNbd2jEAAAAJ&hl=en"
+  email            : "wangyandong@buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Hakuna25" # e.g., "github username"
+  github           : "yandong-wang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
