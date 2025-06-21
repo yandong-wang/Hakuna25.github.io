@@ -44,9 +44,9 @@ Wen 2025,  IEEE Transactions on Mobile Computing
 
 Rongye Shi, Member, IEEE, Xin Yu, **Yandong Wang**, Yongkai Tian, Zhenyu Liu, Member, IEEE, Wenjun Wu, Xiao-Ping Zhang, Fellow, IEEE, Manuela M. Veloso, Fellow, IEEE
 
-<span style="color:rgba(0, 0, 0, 0.4)">Symmetry-Informed MARL: A Decentralized and
+<!-- <span style="color:rgba(0, 0, 0, 0.4)">Symmetry-Informed MARL: A Decentralized and
 Cooperative UAV Swarm Control Approach for
-Communication Coverage.</span>
+Communication Coverage.</span> -->
 </div>
 </div>
 
@@ -67,7 +67,7 @@ Jun 2025,  IEEE/RSJ International Conference on Intelligent Robots and Systems
 
 Xin Yu, Haoyuan Li, **Yandong Wang**, Simin Li, Rongye Shi, Wenjun Wu
 
-<span style="color:rgba(0, 0, 0, 0.4)">CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems.</span>
+<!-- <span style="color:rgba(0, 0, 0, 0.4)">CLGA: A Collaborative LLM Framework for Dynamic Goal Assignment in Multi-Robot Systems.</span> -->
 </div>
 </div>
 
