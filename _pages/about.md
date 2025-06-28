@@ -73,6 +73,7 @@ Xin Yu, Haoyuan Li, **Yandong Wang**, Simin Li, Rongye Shi, Wenjun Wu
 
 # 🏆 Honors and Awards
 - *2025.11*, First-class Academic Scholarship of Beihang University
+- *2024.05*, Outstanding Graduates of Beijing
 - *2021.10*, National Scholarship (top 1%) 
 
 # 📖 Educations
